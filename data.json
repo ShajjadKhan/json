@@ -1,0 +1,99 @@
+
+[
+  {
+    "title": "Helping the Homeless",
+    "description": "Donate to help the homeless in our community. Your donation will go towards providing food, shelter, and clothing to those in need.",
+    "category": "Homelessness",
+    "id": 1,
+    "price": 50,
+    "img" : "../public/course-1.png"
+  },
+  {
+    "title": "Supporting Education",
+    "description": "Donate to support education in underprivileged communities. Your donation will go towards providing school supplies, books, and scholarships to students in need.",
+    "category": "Education",
+    "id": 2,
+    "price": 100,
+    "img" : "../public/course-2.png"
+  },
+  {
+    "title": "Saving the Environment",
+    "description": "Donate to help save the environment. Your donation will go towards planting trees, cleaning up the oceans, and reducing carbon emissions.",
+    "category": "Environment",
+    "id": 3,
+    "price": 75,
+    "img" : "../public/course-3.png"
+  },
+  {
+    "title": "Fighting Hunger",
+    "description": "Donate to help fight hunger in our community. Your donation will go towards providing meals to those in need.",
+    "category": "Hunger",
+    "id": 4,
+    "price": 25,
+    "img" : "../public/course-4.png"
+  },
+  {
+    "title": "Supporting Veterans",
+    "description": "Donate to support our veterans. Your donation will go towards providing medical care, housing, and job training to veterans in need.",
+    "category": "Veterans",
+    "id": 5,
+    "price": 150,
+    "img" : "../public/course-1.png"
+  },
+  {
+    "title": "Animal Welfare",
+    "description": "Donate to help animals in need. Your donation will go towards providing food, shelter, and medical care to animals in need.",
+    "category": "Animals",
+    "id": 6,
+    "price": 50,
+    "img" : "../public/course-2.png"
+  },
+  {
+    "title": "Disaster Relief",
+    "description": "Donate to help those affected by natural disasters. Your donation will go towards providing emergency supplies, shelter, and medical care to those in need.",
+    "category": "Disaster Relief",
+    "id": 7,
+    "price": 200,
+    "img" : "../public/course-3.png"
+  },
+  {
+    "title": "Supporting the Arts",
+    "description": "Donate to support the arts in our community. Your donation will go towards funding art programs, performances, and exhibitions.",
+    "category": "Arts",
+    "id": 8,
+    "price": 75,
+    "img" : "../public/course-4.png"
+  },
+  {
+    "title": "Fighting Cancer",
+    "description": "Donate to help fight cancer. Your donation will go towards funding cancer research, treatment, and support services.",
+    "category": "Cancer",
+    "id": 9,
+    "price": 100,
+    "img" : "../public/course-1.png"
+  },
+  {
+    "title": "Supporting Mental Health",
+    "description": "Donate to support mental health. Your donation will go towards funding mental health research, treatment, and support services.",
+    "category": "Mental Health",
+    "id": 10,
+    "price": 50,
+    "img" : "../public/course-2.png"
+  },
+  {
+    "title": "Promoting Equality",
+    "description": "Donate to promote equality. Your donation will go towards supporting organizations that fight for equal rights and opportunities for all.",
+    "category": "Equality",
+    "id": 11,
+    "price": 150,
+    "img" : "../public/course-3.png"
+  },
+  {
+    "title": "Supporting Small Businesses",
+    "description": "Donate to support small businesses. Your donation will go towards providing loans, grants, and other resources to small business owners.",
+    "category": "Small Business",
+    "id": 12,
+    "price": 75,
+    "img" : "../public/course-4.png"
+  }
+]
